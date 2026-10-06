@@ -23,5 +23,8 @@ The dashboard helps analyze sales performance and provides insights into differe
 
 ## 📁 Project File
 The complete Excel dashboard is available in this repository:
+[excel product analysis.xlsx](./excel%20product%20analysis.xlsx)
 
-`excel product analysis.xlsx`
+## 📊 Dashboard Preview
+<img src="Store%20Dashboard.png" alt="Store Data Dashboard">
+
